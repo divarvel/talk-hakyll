@@ -1,7 +1,6 @@
----
-title: Construire des sites statiques avec Hakyll
-author: Clément Delafargue, Marc-Antoine Perennou
----
+% Construire des sites statiques avec Hakyll
+% Clément Delafargue, Marc-Antoine Perennou
+% 02 février 2013
 
 # Les sites statiques
 
